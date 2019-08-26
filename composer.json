@@ -1,5 +1,5 @@
 {
-  "name": "thebrain/apiclient",
+  "name": "crm/apiclient",
   "description": "A PHP-SDK for The Brain API",
   "keywords": ["fmf", "api", "brain"],
   "type": "package",
