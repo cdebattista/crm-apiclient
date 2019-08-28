@@ -1,12 +1,12 @@
 <?php
 
-namespace TheBrain\Service;
+namespace Crm\Service;
 
 Class Contact {
 
     protected $client;
 
-    public function __construct(\TheBrain\ApiClient $client){
+    public function __construct(\Crm\ApiClient $client){
         $this->client = $client;
     }
 

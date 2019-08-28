@@ -1,7 +1,7 @@
 {
   "name": "crm/apiclient",
-  "description": "A PHP-SDK for The Brain API",
-  "keywords": ["fmf", "api", "brain"],
+  "description": "A PHP-SDK for The CRM API",
+  "keywords": ["fmf", "api", "crm"],
   "type": "package",
   "license": "MIT",
   "authors": [{
@@ -18,7 +18,7 @@
 
   "autoload": {
     "psr-4": {
-      "TheBrain\\": "src/"
+      "Crm\\": "src/"
     }
   },
 

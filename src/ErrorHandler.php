@@ -1,6 +1,6 @@
 <?php
 
-namespace TheBrain;
+namespace Crm;
 
 Class ErrorHandler {
 
